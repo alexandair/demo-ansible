@@ -1,0 +1,16 @@
+{
+    "ansible.fileCopyConfig": [
+        {
+            "server": "51.144.48.34",
+            "sourcePath": "c:\\gh\\demo-ansible/",
+            "targetPath": "NotShowThisAgain",
+            "copyOnSave": true
+        },
+        {
+            "server": "ansiblehost2020.westeurope.cloudapp.azure.com",
+            "sourcePath": "c:\\gh\\demo-ansible/",
+            "targetPath": "NotShowThisAgain",
+            "copyOnSave": true
+        }
+    ]
+}
