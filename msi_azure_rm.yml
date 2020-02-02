@@ -1,0 +1,7 @@
+plugin: azure_rm
+include_vm_resource_groups:
+- demo-ansible-rg
+auth_source: msi
+keyed_groups:
+- prefix: tag
+  key: tags
